@@ -94,8 +94,6 @@
 
     <?php else : ?>
 
-    <p class="nocomments"><font style="font-family:Arial, Helvetica, sans-serif; font-size:12px;">Comments are closed.</font></p>
-
     <?php endif; ?>
 
 		<?php endif; ?>
